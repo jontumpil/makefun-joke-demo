@@ -1,0 +1,1 @@
+The demo crashed in front of everyone, but my agent didn't panic — within seconds it had a fix, a postmortem, and a commit message blaming the Wi-Fi.
